@@ -1,6 +1,6 @@
-# Scratch — day 281
+# Reading — day 281
 
-- reviewed sql notes
-- drafted a design
-- next: add examples
-- seed: 6a832cb3
+- reviewed python notes
+- drafted a checklist
+- next: write tests
+- seed: 24397dc9

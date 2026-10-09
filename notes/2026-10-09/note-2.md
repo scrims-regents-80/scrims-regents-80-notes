@@ -1,6 +1,6 @@
-# Log — day 282
+# Drafts — day 282
 
-- reviewed algorithms notes
-- drafted a script
-- next: read docs
-- seed: fff625cc
+- reviewed rust notes
+- cleaned up a module
+- next: benchmark
+- seed: 3cff5415
